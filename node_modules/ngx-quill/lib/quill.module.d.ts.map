@@ -1,0 +1,1 @@
+{"version":3,"file":"quill.module.d.ts","sources":["quill.module.d.ts"],"names":[],"mappings":"AAAA;AACA;;;;;;AACA;AACA;;;AACA","sourcesContent":["import { ModuleWithProviders } from '@angular/core';\nimport { QuillConfig } from './quill-editor.interfaces';\nexport declare class QuillModule {\n    static forRoot(config?: QuillConfig): ModuleWithProviders<QuillModule>;\n}\n"]}

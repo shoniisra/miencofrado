@@ -1,0 +1,1 @@
+{"version":3,"file":"calendar-day.module.d.ts","sources":["calendar-day.module.d.ts"],"names":[],"mappings":";;;;;AAAA;AACA;;;AACA","sourcesContent":["export { CalendarDayViewComponent, CalendarDayViewBeforeRenderEvent, } from './calendar-day-view.component';\nexport declare class CalendarDayModule {\n}\n"]}
