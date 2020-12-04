@@ -35,7 +35,7 @@
     "angular-calendar": "0.29.0-beta.3",
     "apexcharts": "^3.19.0",
     "date-fns": "^2.12.0",
-    "highlight.js": "^10.0.0",
+    "highlight.js": "^10.4.1",
     "luxon": "^1.23.0",
     "ngx-quill": "^12.0.1",
     "ngx-showdown": "~5.1.0",
